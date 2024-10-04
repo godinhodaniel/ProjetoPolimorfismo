@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\circulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:circulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\conjuntofiguravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:conjuntofiguravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\figuravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:figuravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\pontovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:pontovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\retangulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:retangulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|d:\\meus_projetos\\daniel\\oo\\projetopolimorfismo\\projetopolimorfismo\\triangulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2D898-B2E3-4454-82DE-0F38A1F7962C}|ProjetoPolimorfismo.csproj|solutionrelative:triangulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:08:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConjuntoFiguraVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\ConjuntoFiguraVO.cs",
+              "RelativeDocumentMoniker": "ConjuntoFiguraVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\ConjuntoFiguraVO.cs",
+              "RelativeToolTip": "ConjuntoFiguraVO.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:53:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PontoVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\PontoVO.cs",
+              "RelativeDocumentMoniker": "PontoVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\PontoVO.cs",
+              "RelativeToolTip": "PontoVO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:52:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiguraVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\FiguraVO.cs",
+              "RelativeDocumentMoniker": "FiguraVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\FiguraVO.cs",
+              "RelativeToolTip": "FiguraVO.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwDMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:52:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrianguloVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\TrianguloVO.cs",
+              "RelativeDocumentMoniker": "TrianguloVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\TrianguloVO.cs",
+              "RelativeToolTip": "TrianguloVO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:50:19.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RetanguloVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\RetanguloVO.cs",
+              "RelativeDocumentMoniker": "RetanguloVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\RetanguloVO.cs",
+              "RelativeToolTip": "RetanguloVO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:50:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CirculoVO.cs",
+              "DocumentMoniker": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\CirculoVO.cs",
+              "RelativeDocumentMoniker": "CirculoVO.cs",
+              "ToolTip": "D:\\meus_projetos\\daniel\\oo\\ProjetoPolimorfismo\\ProjetoPolimorfismo\\CirculoVO.cs",
+              "RelativeToolTip": "CirculoVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:48:43.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
